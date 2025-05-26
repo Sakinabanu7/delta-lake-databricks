@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderDate,ProductID,ProductName,Quantity,UnitPrice,TotalPrice
+1,1001,2025-01-01,1,Laptop,2,1000,2000
+2,1002,2025-01-02,2,Smartphone,3,800,2400
+3,1003,2025-01-03,1,Laptop,1,1000,1000
+4,1001,2025-01-04,3,Headphones,2,50,100
+5,1002,2025-01-05,1,Laptop,2,1000,2000
+6,1003,2025-02-01,2,Smartphone,4,800,3200
+7,1001,2025-02-02,1,Laptop,1,1000,1000
+8,1002,2025-02-03,3,Headphones,1,50,50
+9,1003,2025-05-23,2,Smartphone,2,800,1600
+10,1001,2025-02-05,1,Laptop,3,1000,3000
