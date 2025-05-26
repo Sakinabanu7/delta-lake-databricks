@@ -26,7 +26,7 @@ This project demonstrates a complete Delta Lake workflow, including data ingesti
 |---------------------------|--------------------------------------------------|
 | `delta_lake_notebook.py`  | Databricks code for the complete Delta workflow |
 | `README.md`               | Project overview and documentation               |
-| *(Optional)* `Orders.csv` | Sample dataset used for ingestion                |
+| `Orders.csv` | Sample dataset used for ingestion                |
 
 ---
 
